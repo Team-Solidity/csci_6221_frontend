@@ -6,5 +6,5 @@
 2. [Sai Sarvanth Vedula]()
 3. [Sree Harsha Tumuluri]()
 4. [Manoj Srinivasa](https://github.com/jonumhills)
-5. [Hanumant Jain]()
+5. [Hanumant Jain](https://github.com/hanumantjain)
 
